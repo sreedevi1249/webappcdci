@@ -1,0 +1,9 @@
+D:\cdci\webappcdci\WebApplicationCDCI\WebApplicationCDCI2\bin\Debug\netcoreapp1.1\WebApplicationCDCI2.deps.json
+D:\cdci\webappcdci\WebApplicationCDCI\WebApplicationCDCI2\bin\Debug\netcoreapp1.1\WebApplicationCDCI2.runtimeconfig.json
+D:\cdci\webappcdci\WebApplicationCDCI\WebApplicationCDCI2\bin\Debug\netcoreapp1.1\WebApplicationCDCI2.runtimeconfig.dev.json
+D:\cdci\webappcdci\WebApplicationCDCI\WebApplicationCDCI2\bin\Debug\netcoreapp1.1\WebApplicationCDCI2.dll
+D:\cdci\webappcdci\WebApplicationCDCI\WebApplicationCDCI2\bin\Debug\netcoreapp1.1\WebApplicationCDCI2.pdb
+D:\cdci\webappcdci\WebApplicationCDCI\WebApplicationCDCI2\obj\Debug\netcoreapp1.1\WebApplicationCDCI2.csprojResolveAssemblyReference.cache
+D:\cdci\webappcdci\WebApplicationCDCI\WebApplicationCDCI2\obj\Debug\netcoreapp1.1\WebApplicationCDCI2.AssemblyInfo.cs
+D:\cdci\webappcdci\WebApplicationCDCI\WebApplicationCDCI2\obj\Debug\netcoreapp1.1\WebApplicationCDCI2.dll
+D:\cdci\webappcdci\WebApplicationCDCI\WebApplicationCDCI2\obj\Debug\netcoreapp1.1\WebApplicationCDCI2.pdb

@@ -1,0 +1,6 @@
+D:\cdci\webappcdci\WebApplicationCDCI\WebApplicationCDCI\bin\Debug\net462\WebApplicationCDCI.deps.json
+D:\cdci\webappcdci\WebApplicationCDCI\WebApplicationCDCI\bin\Debug\net462\WebApplicationCDCI.runtimeconfig.json
+D:\cdci\webappcdci\WebApplicationCDCI\WebApplicationCDCI\bin\Debug\net462\WebApplicationCDCI.runtimeconfig.dev.json
+D:\cdci\webappcdci\WebApplicationCDCI\WebApplicationCDCI\obj\Debug\net462\WebApplicationCDCI.csprojResolveAssemblyReference.cache
+D:\cdci\webappcdci\WebApplicationCDCI\WebApplicationCDCI\obj\Debug\net462\WebApplicationCDCI.csproj.WebApplicationCDCI.exe.config
+D:\cdci\webappcdci\WebApplicationCDCI\WebApplicationCDCI\obj\Debug\net462\WebApplicationCDCI.AssemblyInfo.cs
