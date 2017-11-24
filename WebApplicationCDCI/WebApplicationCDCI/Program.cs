@@ -11,15 +11,19 @@ namespace WebApplicationCDCI
     {
         public static void Main(string[] args)
         {
-            var host = new WebHostBuilder()
-                .UseKestrel()
-                .UseContentRoot(Directory.GetCurrentDirectory())
-                .UseIISIntegration()
-                .UseApplicationInsights()
-                .UseStartup<Startup>()                
-                .Build();
+        var config = new ConfigurationBuilder()
+            .SetBasePath(Directory.GetCurrentDirectory())
+            .AddEnvironmentVariables()
+            .Build();
 
-            host.Run();
+        var host = new WebHostBuilder()
+            .UseConfiguration(config)
+            .UseKestrel()
+            .UseContentRoot(Directory.GetCurrentDirectory())
+            .UseStartup<Startup>()
+            .Build();
+
+			host.Run(); 
         }
     }
 }
