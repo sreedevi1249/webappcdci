@@ -1,9 +1,0 @@
-c:\users\sreedevig\documents\visual studio 2017\Projects\WebApplicationCDCI\WebApplicationCDCI\bin\Debug\netcoreapp1.1\WebApplicationCDCI.deps.json
-c:\users\sreedevig\documents\visual studio 2017\Projects\WebApplicationCDCI\WebApplicationCDCI\bin\Debug\netcoreapp1.1\WebApplicationCDCI.runtimeconfig.json
-c:\users\sreedevig\documents\visual studio 2017\Projects\WebApplicationCDCI\WebApplicationCDCI\bin\Debug\netcoreapp1.1\WebApplicationCDCI.runtimeconfig.dev.json
-c:\users\sreedevig\documents\visual studio 2017\Projects\WebApplicationCDCI\WebApplicationCDCI\bin\Debug\netcoreapp1.1\WebApplicationCDCI.dll
-c:\users\sreedevig\documents\visual studio 2017\Projects\WebApplicationCDCI\WebApplicationCDCI\bin\Debug\netcoreapp1.1\WebApplicationCDCI.pdb
-c:\users\sreedevig\documents\visual studio 2017\Projects\WebApplicationCDCI\WebApplicationCDCI\obj\Debug\netcoreapp1.1\WebApplicationCDCI.csprojResolveAssemblyReference.cache
-c:\users\sreedevig\documents\visual studio 2017\Projects\WebApplicationCDCI\WebApplicationCDCI\obj\Debug\netcoreapp1.1\WebApplicationCDCI.AssemblyInfo.cs
-c:\users\sreedevig\documents\visual studio 2017\Projects\WebApplicationCDCI\WebApplicationCDCI\obj\Debug\netcoreapp1.1\WebApplicationCDCI.dll
-c:\users\sreedevig\documents\visual studio 2017\Projects\WebApplicationCDCI\WebApplicationCDCI\obj\Debug\netcoreapp1.1\WebApplicationCDCI.pdb
