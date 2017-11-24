@@ -42,6 +42,14 @@
           }
         }
       },
+	  "publishOptions": {
+    "include": [
+        "wwwroot",
+        "**/*.cshtml",
+        "appsettings.json",
+        "web.config"
+    ]
+	},
       "Microsoft.ApplicationInsights/2.2.0": {
         "type": "package",
         "dependencies": {
